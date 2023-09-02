@@ -43,9 +43,9 @@ const ProjectInfo = (props) => {
                     }}>
                 </img>
             </Box>
-            
+
         </Container>
-    )
+    );
 };
 
 export default ProjectInfo;
