@@ -28,9 +28,9 @@ const ContactForm = () => {
                 multiline
                 rows={4}
             />
-             <SubmitModal />
+            <SubmitModal />
         </Grid>
-    );
-};
+    )
+}
 
 export default ContactForm;

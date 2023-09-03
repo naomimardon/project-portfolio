@@ -72,7 +72,7 @@ const Navbar = () => {
                                 horizontal: 'left',
                             }}
                             open={ Boolean(anchorElNav) }
-                            onClose={ handleCloseNavMenu }
+                            onClose={handleCloseNavMenu}
                             sx={{
                                 display: { xs: 'block', md: 'none' },
                             }}
