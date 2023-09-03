@@ -22,8 +22,8 @@ const Info = () => {
           </Grid>
           <Grid item className="infoItem" xs={4} sm={8} md={12}>
             <Typography>
-              <p>I am currently enrolled in a Front-End Web Development Bootcamp, due to finish at the end of March 2023. During this rigorous and fast-paced course, I have learnt the practical and technical skills needed to build robust front-end web applications.</p>
-              <p>I have gained proficiency in numerous technologies, including HTML, CSS, JavaScript, Node.js and React, and plan to build on these skills in the coming months.</p>
+              <p>In March 2023, I completed a 16 week Front-End Web Development Bootcamp. During this rigorous and fast-paced course, I learnt the practical and technical skills needed to build robust front-end web applications.</p>
+              <p>I have gained proficiency in numerous technologies, including HTML, CSS, JavaScript, Node.js and React.</p>
               <p>Please lake a look at the
                 <span><Link to="/projects" end> Projects page</Link></span> to view a selection of my work.
               </p>
